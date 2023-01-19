@@ -15,3 +15,5 @@ A continuación, realizamos ciertas querys de interes usando Pandas serán usada
 Las APIs las vamos a desarrollar usando FastAPI (ver código en repositorio), y las expondremos usando Deta Micros. Los valores output de salida estan con formato json/int para asegurar la comunicación efectiva con el cliente que las requiera.
 
 El código y archivos de carga los mantendremos en el repositorio de github para tener en cuenta versiones del mismo.
+
+Link youtube: <link>
