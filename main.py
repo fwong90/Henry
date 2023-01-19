@@ -10,7 +10,7 @@ import numpy as np
 ################## inicio: lineas de codigo para poder usar Deta Drive###############
 
 app = FastAPI()
-deta = Deta("e0di40mo_7WonBA1mRSu16ZZX9VyyFxnk4Cw79ME2")  # configure your Deta project 
+deta = Deta("e0di40mo_borrada_por_seguridad")  # configure your Deta project 
 drive = deta.Drive("Archivos")
 
 
