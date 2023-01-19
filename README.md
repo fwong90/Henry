@@ -16,4 +16,4 @@ Las APIs las vamos a desarrollar usando FastAPI (ver código en repositorio), y 
 
 El código y archivos de carga los mantendremos en el repositorio de github para tener en cuenta versiones del mismo.
 
-Link youtube: <link>
+Link youtube: https://www.youtube.com/watch?v=tDRfW947ga4
