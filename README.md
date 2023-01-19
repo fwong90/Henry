@@ -9,6 +9,7 @@ En la siguiente imagen, se puede visualizar todos los componentes a desarrollar,
 ![Presentación1](https://user-images.githubusercontent.com/97036778/213478667-f26f0ea9-9648-45f5-aa5a-2abd87f70f73.jpg)
 
 Iniciarmos con la lecutura de los CSVs usando Pandas, seguidamente estos pasan por un proceso de limpieza de datos (ver código en repositorio) para finalmente tener un archivo limpio y centralizado. A continuación, realizamos ciertas querys de interes para el ejercicio usando Pandas, las mismas que serán usadas para el desarrollo de las APIs.
+
 Las APIs las vamos a desarrollar usando FastAPI (ver código en repositorio), y para la exposición procederemos a desplegarlas en Deta Cloud.
 
 El código y archivos de carga los mantendremos en el repositorio de github para tener en cuenta versiones del mismo.
